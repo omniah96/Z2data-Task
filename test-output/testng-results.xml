@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-19T22:20:39 AST" name="Default suite" finished-at="2022-07-19T22:21:01 AST" duration-ms="22507">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T22:20:39 AST" name="Default test" finished-at="2022-07-19T22:21:01 AST" duration-ms="22507">
+      <class name="Test.W3ScoolsTest">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:Test.W3ScoolsTest@2892d68]" started-at="2022-07-19T22:20:39 AST" name="driverSetup" finished-at="2022-07-19T22:20:40 AST" duration-ms="1865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="checkCountryCompany()[pri:0, instance:Test.W3ScoolsTest@2892d68]" started-at="2022-07-19T22:20:40 AST" name="checkCountryCompany" finished-at="2022-07-19T22:21:01 AST" duration-ms="20449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCountryCompany -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:Test.W3ScoolsTest@2892d68]" started-at="2022-07-19T22:21:01 AST" name="driverClose" finished-at="2022-07-19T22:21:01 AST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- Test.W3ScoolsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
